@@ -22,4 +22,5 @@ Check out the [configuration reference](https://huggingface.co/docs/hub/spaces-c
    ```bash
    pip install -r requirements.txt
 2. Run the app:
+   ```bash
    streamlit run app.py
