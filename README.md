@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://your-image-url.com" alt="Doctor AI Logo" width="100" height="100">
-</p>
+
 
 # Doctor-AI 🩺
 
 An AI Doctor Assistant who can assist you with your health-related concerns and medicines.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-1.29.0-ff69b4.svg)](https://docs.streamlit.io/1.29.0/library/api-reference)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-1.29.0-ff69b4.svg)](https://huggingface.co/spaces/SaileshSivan/Doctor-AI)
 
 ## Features
 
