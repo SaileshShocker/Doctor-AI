@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 ---
-title: Doctor AI
+<title>title: Doctor AI</title>
 emoji: 💻
 colorFrom: pink
 colorTo: yellow
