@@ -21,7 +21,5 @@ Check out the [configuration reference](https://huggingface.co/docs/hub/spaces-c
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
-   1. Run the app:
-   ```bash
+2. Run the app:
    streamlit run app.py
